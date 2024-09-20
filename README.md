@@ -1,8 +1,9 @@
-<div id="header" align="centre">
+<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h1b24xNHlsbTNpcXk0djVteXBtMTF2bDR2bDR2NXdnMHR4N3doZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rjsiAfUxEZNsGzv76/giphy.gif" width="600" height="600"/>
 </div>
 
-## Hi there ✨
+##
+<h1 align="center"> Hi there ✨</h1>
 
 
 
